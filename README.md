@@ -1,4 +1,7 @@
 ### Hi there 👋
+### I'm Hariharan.
+
+<a href="https://app.daily.dev/Hariananthaa"><img src="https://api.daily.dev/devcards/5ad20e28ccc74a5c8e8ffbfa643ee486.png?r=1bl" width="400" alt="Hari's Dev Card"/></a>
 
 <!--
 **hariananthaa/hariananthaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
